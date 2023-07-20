@@ -62,7 +62,7 @@ function signIn(user, pass) {
        alert("incorrect login details");
      }  
  }
-
+//prompts user for username and password
  var userNamePrompt = prompt("enter your username");
  var passwordPrompt = prompt("enter your password");
 
